@@ -1,7 +1,7 @@
 import 'dart:math';
 
 main() {
-  // Criando uma varipavel que receberá um valor aleatório de 0 a 10. Note, o valor passado dentro de nextInt não é incluído. nextInt retornará números inteiros.
+  // Criando uma variável que receberá um valor aleatório de 0 a 10. Note, o valor passado dentro de nextInt não é incluído. nextInt retornará números inteiros.
   var nota = Random().nextInt(11);
 
   print('A nota informada foi $nota.');

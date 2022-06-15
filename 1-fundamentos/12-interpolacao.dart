@@ -1,9 +1,9 @@
-main() {
-  
+main() {  
   String nome = 'João';
   String status = 'aprovado';
   double nota = 9.2;
 
+  // Concatenação:
   String frase1 = nome + ' está ' + status + ', pois tirou nota ' + nota.toString() + '!';
   print(frase1);
 

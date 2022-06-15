@@ -1,4 +1,4 @@
-# Este repositório trata-se de resumos com dart
+# Este repositório trata dos fundamentos, estruturas de controle, funções e programação orientada a objetos com a linguagem dart
 
 ## Sumário:
 

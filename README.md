@@ -54,20 +54,20 @@
 - 18-map_reduce_3.dart - unindo métodos map e reduce;
 
 ### 4-orientação a objetos
-- 1-classe_data.dart - ;
-- 2-classe_data_2.dart - ;
-- 3-classe_data_construtores.dart - ;
-- 4-classe_data_construtores_nomeados.dart - ;
-- 5-import_relativo_1.dart - ;
-- 6-import_relativo_2.dart - ;
-- 7-classe_carro.dart - ;
-- 8-getters_setters_1.dart - ;
-- 9-getters_setters_2.dart - ;
-- 10-composicao_1_classe_cliente.dart - ;
-- 11-composicao_2_classe_produto.dart - ;
-- 12-composicao_3_classe_vendaItem.dart - ;
-- 13-composicao_4_classe_venda.dart - ;
-- 14-composicao_5_teste.dart - ;
-- 15-composicao_6_teste_resposta.dart - ;
-- classe_carro - ;
-- import_relativo - ;
+- 1-classe_data.dart - o que é uma classe;
+- 2-classe_data_2.dart - atributos de uma classe;
+- 3-classe_data_construtores.dart - construtores;
+- 4-classe_data_construtores_nomeados.dart - construtores nomeados;
+- 5-import_relativo_1.dart - formas de importar;
+- 6-import_relativo_2.dart - formas de importar;
+- 7-classe_carro.dart - exemplo de classe;
+- 8-getters_setters_1.dart - getters e setters;
+- 9-getters_setters_2.dart - getters e setters;
+- 10-composicao_1_classe_cliente.dart - exemplo de classe;
+- 11-composicao_2_classe_produto.dart - exemplo de classe;
+- 12-composicao_3_classe_vendaItem.dart - exemplo de classe;
+- 13-composicao_4_classe_venda.dart - exemplo de classe;
+- 14-composicao_5_teste.dart - exemplo de classe;
+- 15-composicao_6_teste_resposta.dart - exemplo de classe;
+- classe_carro - contém arquivos utilizados por '7-classe_carro.dart';
+- import_relativo - contém arquivos utilizados por '5-import_relativo_1.dart'.

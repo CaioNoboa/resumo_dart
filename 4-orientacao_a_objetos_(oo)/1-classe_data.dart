@@ -27,7 +27,6 @@ main() {
 
   print("${dataAniversario.dia}/${dataAniversario.mes}/${dataAniversario.ano}");
 
-
   Data dataCompra = Data();
   dataCompra.dia = 23;
   dataCompra.mes = 12;

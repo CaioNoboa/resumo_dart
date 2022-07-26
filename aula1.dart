@@ -27,6 +27,4 @@ If you want to perform integer division, then you could use the ~/ operator:
   22 ~/ 7
   This produces a result of 3.
   The ~/ operator is officially called the truncating division operator when applied to numbers.
-
-
 */

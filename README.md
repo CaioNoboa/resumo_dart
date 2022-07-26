@@ -3,6 +3,7 @@
 ## Sumário:
 
 - aula1.dart - atalhos e como rodar os programas;
+- future.dart - explicando assincronia;
 
 ### 1-fundamentos
 - 1-primeiro.dart - Hello World;

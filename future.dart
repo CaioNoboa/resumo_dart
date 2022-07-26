@@ -9,7 +9,7 @@ main() {
     .then((value) => value * 2)
     .then((value) => value * 10)
     .then((value) => value / 5)
-    .catchError((err) {})
+    .catchError((err) {}) // para tratar eventuais erros
     .then((value) => print(value));
   print('Depois de chamar a função somaDoFuturo()');
 
